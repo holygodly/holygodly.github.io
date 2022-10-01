@@ -6,7 +6,7 @@
   <link href="https://holygodly.github.io/atom.xml" rel="self"/>
   
   <link href="https://holygodly.github.io/"/>
-  <updated>2022-09-26T14:36:39.009Z</updated>
+  <updated>2022-10-01T05:06:30.977Z</updated>
   <id>https://holygodly.github.io/</id>
   
   <author>
@@ -15,6 +15,51 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>代码测试</title>
+    <link href="https://holygodly.github.io/2022/10/01/dai-ma-ce-shi/"/>
+    <id>https://holygodly.github.io/2022/10/01/dai-ma-ce-shi/</id>
+    <published>2022-10-01T04:28:08.000Z</published>
+    <updated>2022-10-01T05:06:30.977Z</updated>
+    
+    <content type="html"><![CDATA[<p>试一下代码的显示效果如何，顺便测一下脑残live2d看板娘话能不能说清楚</p><pre class="line-numbers language-markup" data-language="markup"><code class="language-markup"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>body</span><span class="token punctuation">&gt;</span></span>    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>p</span> <span class="token attr-name">title</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>fibre testing<span class="token punctuation">"</span></span>       <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>fibre<span class="token punctuation">"</span></span>       <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>big blue<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>small</span><span class="token punctuation">&gt;</span></span>今天<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>small</span><span class="token punctuation">&gt;</span></span>天气很好<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>p</span><span class="token punctuation">&gt;</span></span>       <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>span</span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>em</span><span class="token punctuation">&gt;</span></span>今天<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>em</span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>i</span><span class="token punctuation">&gt;</span></span>天气<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>i</span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>strong</span><span class="token punctuation">&gt;</span></span>很好<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>strong</span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>span</span><span class="token punctuation">&gt;</span></span>       <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>span</span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>span</span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>pink<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>fibre<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>span</span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>span</span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>skyblue<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>很开心<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>span</span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>span</span><span class="token punctuation">&gt;</span></span>       <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>span</span><span class="token punctuation">&gt;</span></span>8<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>sub</span><span class="token punctuation">&gt;</span></span>1<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>sub</span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>span</span><span class="token punctuation">&gt;</span></span>       <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>span</span><span class="token punctuation">&gt;</span></span>8 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>sup</span><span class="token punctuation">&gt;</span></span>3<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>sup</span><span class="token punctuation">&gt;</span></span> <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>span</span><span class="token punctuation">&gt;</span></span>       <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>body</span><span class="token punctuation">&gt;</span></span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>第二段代码，再测一下</p><pre class="line-numbers language-markup" data-language="markup"><code class="language-markup"> <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>style</span><span class="token punctuation">&gt;</span></span><span class="token style"><span class="token language-css">        <span class="token selector">p</span> <span class="token punctuation">{</span>            <span class="token property">height</span><span class="token punctuation">:</span> 1000px<span class="token punctuation">;</span>            <span class="token property">width</span><span class="token punctuation">:</span> 400px<span class="token punctuation">;</span>             <span class="token property">background-color</span><span class="token punctuation">:</span> pink            <span class="token punctuation">;</span>        <span class="token punctuation">}</span>    </span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>style</span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>head</span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>body</span><span class="token punctuation">&gt;</span></span>    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>p</span><span class="token punctuation">&gt;</span></span>今天天气很好<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>p</span><span class="token punctuation">&gt;</span></span>    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>span</span><span class="token punctuation">&gt;</span></span>fibre很开心<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>span</span><span class="token punctuation">&gt;</span></span>    <span class="token comment">&lt;!-- &lt;a id="three"&gt;&lt;/a&gt; --&gt;</span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>body</span><span class="token punctuation">&gt;</span></span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;试一下代码的显示效果如何，顺便测一下脑残live2d看板娘话能不能说清楚&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-markup&quot; data-language=&quot;markup&quot;&gt;&lt;code class=&quot;language-markup&quot;&gt;&lt;</summary>
+      
+    
+    
+    
+    
+    <category term="-网站测试" scheme="https://holygodly.github.io/tags/%E7%BD%91%E7%AB%99%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>live2d</title>
+    <link href="https://holygodly.github.io/2022/09/30/live2d/"/>
+    <id>https://holygodly.github.io/2022/09/30/live2d/</id>
+    <published>2022-09-30T14:38:20.000Z</published>
+    <updated>2022-09-30T15:00:23.878Z</updated>
+    
+    <content type="html"><![CDATA[<div id="landlord">    <div class="message" style="opacity:0"></div>    <canvas id="live2d" width="280" height="250" class="live2d"></canvas>    <div class="hide-button">隐藏</div></div><script type="text/javascript" src="https://cdn.bootcss.com/jquery/2.2.4/jquery.min.js"></script><script type="text/javascript">    var message_Path = '/live2d/'    var home_Path = 'https://holygodly.github.io/'</script><script type="text/javascript" src="/live2d/js/live2d.js"></script><script type="text/javascript" src="/live2d/js/message.js"></script><script type="text/javascript">    loadlive2d("live2d", "/live2d/model/tia/model.json");</script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div id=&quot;landlord&quot;&gt;
+    &lt;div class=&quot;message&quot; style=&quot;opacity:0&quot;&gt;&lt;/div&gt;
+    &lt;canvas id=&quot;live2d&quot; width=&quot;280&quot; height=&quot;250&quot; class=&quot;live2d&quot;&gt;&lt;/canv</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title></title>

@@ -122,7 +122,7 @@
       
       <i class="fas fa-archive" style="zoom: 0.6;"></i>
       
-      <span>其他</span>
+      <span>归档</span>
     </a>
     
   </li>
@@ -259,7 +259,7 @@
 			
 			    <i class="fa-fw fas fa-archive"></i>
 			
-			其他
+			归档
 		</a>
           
         </li>
@@ -512,6 +512,22 @@
 <script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
 
     
+        <link rel="stylesheet" href="/live2d/css/live2d.css" />
+<div id="landlord">
+    <div class="message" style="opacity:0"></div>
+    <canvas id="live2d" width="280" height="250" class="live2d"></canvas>
+    <div class="hide-button">隐藏</div>
+</div>
+<script type="text/javascript" src="https://cdn.bootcss.com/jquery/2.2.4/jquery.min.js"></script>
+<script type="text/javascript">
+    var message_Path = '/live2d/'
+    var home_Path = 'https://holygodly.github.io/'
+</script>
+<script type="text/javascript" src="/live2d/js/live2d.js"></script>
+<script type="text/javascript" src="/live2d/js/message.js"></script>
+<script type="text/javascript">
+    loadlive2d("live2d", "/live2d/model/tia/model.json");
+</script>
     <div class="container row center-align" style="margin-bottom: 0px !important;">
         <div class="col s12 m8 l8 copy-right">
             Copyright&nbsp;&copy;
@@ -523,7 +539,7 @@
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">34</span>&nbsp;字
+                class="white-color">262</span>&nbsp;字
             
             
             
@@ -547,9 +563,9 @@
             
         </div>
         <div class="col s12 m4 l4 social-link social-statis">
-    <a href="https://github.com/holygodly" class="tooltipped" target="_blank" data-tooltip="访问我的GitHub" data-position="top" data-delay="50">
+    <em class="github"> <a href="https://github.com/holygodly" class="tooltipped" target="_blank" data-tooltip="访问我的GitHub" data-position="top" data-delay="50">
         <i class="fab fa-github"></i>
-    </a>
+    </a></em>
 
 
 
@@ -559,39 +575,39 @@
 
 
 
-    <a href="https://steamcommunity.com/id/zcks/" class="tooltipped" target="_blank" data-tooltip="一起玩游戏吧~Steam: https://steamcommunity.com/id/zcks/" data-position="top" data-delay="50">
+    <em class="steam"><a href="steam:https://steamcommunity.com/id/zcks/" class="tooltipped" target="_blank" data-tooltip="一起玩游戏吧~Steam: https://steamcommunity.com/id/zcks/" data-position="top" data-delay="50">
         <i class="fab fa-steam"></i>
-    </a>
+    </a></em>
 
 
 
-    <a href="https://twitter.com/fibre_yee" class="tooltipped" target="_blank" data-tooltip="关注我的Twitter: https://twitter.com/fibre_yee" data-position="top" data-delay="50">
+    <em class="twitter"><a href="https://twitter.com/fibre_yee" class="tooltipped" target="_blank" data-tooltip="关注我的Twitter: https://twitter.com/fibre_yee" data-position="top" data-delay="50">
         <i class="fab fa-twitter"></i>
-    </a>
+    </a></em>
 
 
 
-    <a href="tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=1549488388" class="tooltipped" target="_blank" data-tooltip="QQ联系我: 1549488388" data-position="top" data-delay="50">
+    <em class="qq"><a href="tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=1549488388" class="tooltipped" target="_blank" data-tooltip="QQ联系我: 1549488388" data-position="top" data-delay="50">
         <i class="fab fa-qq"></i>
-    </a>
+    </a></em>
 
 
 
-    <a href="https://weibo.com/u/3581929283" class="tooltipped" target="_blank" data-tooltip="关注我的微博: https://weibo.com/u/3581929283" data-position="top" data-delay="50">
+    <em class="weibo"><a href="https://weibo.com/u/3581929283" class="tooltipped" target="_blank" data-tooltip="关注我的微博: https://weibo.com/u/3581929283" data-position="top" data-delay="50">
         <i class="fab fa-weibo"></i>
-    </a>
+    </a></em>
 
 
 
-    <a href="https://www.zhihu.com/people/zhao-chou-kuang-sheng-30" class="tooltipped" target="_blank" data-tooltip="关注我的知乎: https://www.zhihu.com/people/zhao-chou-kuang-sheng-30" data-position="top" data-delay="50">
+    <em class="zhihu"><a href="https://www.zhihu.com/people/zhao-chou-kuang-sheng-30" class="tooltipped" target="_blank" data-tooltip="关注我的知乎: https://www.zhihu.com/people/zhao-chou-kuang-sheng-30" data-position="top" data-delay="50">
         <i class="fab fa-zhihu1">知</i>
-    </a>
+    </a></em>
 
 
 
-    <a href="https://music.163.com/#/user/home?id=126045809" class="tooltipped" target="_blank" data-tooltip="关注我的网抑云: https://music.163.com/#/user/home?id=126045809" data-position="top" data-delay="50">
+    <em class="netease"><a href="https://music.163.com/#/user/home?id=126045809" class="tooltipped" target="_blank" data-tooltip="关注我的网抑云: https://music.163.com/#/user/home?id=126045809" data-position="top" data-delay="50">
         <i class="far fa-play-circle"></i>
-    </a>
+    </a></em>
 
 
 
@@ -816,7 +832,7 @@ $(function () {
     
 
     <!-- 看板娘 --> 
-    <script src="https://cdn.jsdelivr.net/gh/holygodly/live2d-widget@1.1.4/autoload.js"></script>
+    <!--<script src="https://cdn.jsdelivr.net/gh/holygodly/live2d-widget@1.1.5/autoload.js"></script> --> 
 
 </body>
 

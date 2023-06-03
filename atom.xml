@@ -6,7 +6,7 @@
   <link href="https://holygodly.github.io/atom.xml" rel="self"/>
   
   <link href="https://holygodly.github.io/"/>
-  <updated>2023-06-03T12:33:52.672Z</updated>
+  <updated>2022-09-26T14:36:39.009Z</updated>
   <id>https://holygodly.github.io/</id>
   
   <author>
@@ -15,28 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>高数学习笔记（其一）</title>
-    <link href="https://holygodly.github.io/2023/06/03/gao-shu-xue-xi-bi-ji-qi-yi/"/>
-    <id>https://holygodly.github.io/2023/06/03/gao-shu-xue-xi-bi-ji-qi-yi/</id>
-    <published>2023-06-02T17:55:19.285Z</published>
-    <updated>2023-06-03T12:33:52.672Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="高数学习笔记（其一）"><a href="#高数学习笔记（其一）" class="headerlink" title="高数学习笔记（其一）"></a>高数学习笔记（其一）</h1><h3 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h3><p>考研冲冲冲！从今天起记录自己的学习进度！本篇为高等数学学习记录，第一轮复习！笔记只记录对我比较重要的公式定理</p><h2 id="第一章-函数-极限-连续"><a href="#第一章-函数-极限-连续" class="headerlink" title="第一章 函数 极限 连续"></a>第一章 函数 极限 连续</h2><ul><li><p>函数奇偶性：</p><p>奇：<br>$$</p><p>$$<br>奇+奇=奇</p></li><li><p>反函数公式：<br>$$<br>f^{-1}[f(x)]=x,f[f^{-1}(x)]=x<br>$$</p></li></ul>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;高数学习笔记（其一）&quot;&gt;&lt;a href=&quot;#高数学习笔记（其一）&quot; class=&quot;headerlink&quot; title=&quot;高数学习笔记（其一）&quot;&gt;&lt;/a&gt;高数学习笔记（其一）&lt;/h1&gt;&lt;h3 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerli</summary>
-      
-    
-    
-    
-    
-    <category term="-高数学习笔记" scheme="https://holygodly.github.io/tags/%E9%AB%98%E6%95%B0%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    
-  </entry>
   
   <entry>
     <title></title>
